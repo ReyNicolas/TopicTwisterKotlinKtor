@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883851303072",
+    "project_id": "ktor-player-api-id",
+    "storage_bucket": "ktor-player-api-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883851303072:android:19ea054b02f8b9ed8fd1c5",
+        "android_client_info": {
+          "package_name": "com.topic.twister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883851303072-ekr7jn2idenp7b24u3m7vj6kepo0dui4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBZOXooDpQMDArAmQW8FkrqFhH5laf4JQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883851303072-ekr7jn2idenp7b24u3m7vj6kepo0dui4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
