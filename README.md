@@ -5,9 +5,9 @@ El juego se juega de forma asíncrona, lo que significa que los dos jugadores no
 Al principio de una ronda, se asignan 5 categorías y una letra al azar. Cada jugador, en su turno, tiene un límite de tiempo, 60 segundos, para completar palabras relacionadas con las categorías que comiencen con la letra asignada. Después de que el jugador completa su turno, puede ver las palabras correctas e incorrectas.
 
 ## Links
-* [Unity ](https://gitlab.com/topictwisterequipo14/topictwisterquark)
-* [Api Principal .NET](https://gitlab.com/topictwisterequipo14/apitopictwisternet)
-* [Api Ktor Microservicio Player](https://gitlab.com/topictwisterequipo14/kotlintopictwisterktor)
+* [Unity ](https://github.com/ReyNicolas/TopicTwisterUnityProject)
+* [Api Principal .NET](https://github.com/ReyNicolas/TopicTwisterMainAPI)
+* [Api Ktor Microservicio Player](https://github.com/ReyNicolas/TopicTwisterKotlinKtor)
 
 ## Instrucciones de Instalación
 
